@@ -20,6 +20,11 @@
     align-items: center;
     justify-content: space-between;
  }
+
+ nav a img{
+
+   border-radius: 50%;
+ }
  
  nav ul li {
     display: inline-block;
@@ -79,12 +84,12 @@
     margin-bottom: 20px;
  }
  
- .demo1 {
+ .intro1 {
     color: orange;
     margin-bottom: 30px;
  }
    
- .demo2 {
+ .intro2 {
     color: black;
     line-height: 20px;
  }
@@ -139,3 +144,4 @@
     transform: translate(-60%);
  }
  
+
