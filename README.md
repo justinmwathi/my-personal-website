@@ -26,7 +26,7 @@ To run this project, you need a computer with the following:
 
 1. Clone the project repository on your local machine.
 
-git clone https://github.com/username/project-title.git
+git clone https://github.com/justinmwathi/my-personal-website.git
 
 
 2. Open the project in your text editor.
@@ -49,7 +49,7 @@ git clone https://github.com/username/project-title.git
 ## Authors
 
 
-* **Justin Mwathi** - *My Personal Website* - [Justin Mwathi](https://github.com/username)
+* **Justin Mwathi** - *My Personal Website* - [Justin Mwathi](https://github.com/justinmwathi)
 
 
 ## License
